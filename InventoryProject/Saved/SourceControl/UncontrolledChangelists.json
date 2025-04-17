@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/TestUEProj/InventoryProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/TestUEProj/InventoryProject/Content/Inventory/Widgets/WB_Inventory.uasset",
+				"D:/TestUEProj/InventoryProject/Content/Inventory/Widgets/WB_Slot.uasset",
+				"D:/TestUEProj/InventoryProject/Content/ThirdPerson/Blueprints/BP_InventoryComponent.uasset",
+				"D:/TestUEProj/InventoryProject/Content/Inventory/Blueprints/S_Item.uasset",
+				"D:/TestUEProj/InventoryProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/TestUEProj/InventoryProject/Content/Inventory/Blueprints/BP_Item.uasset",
+				"D:/TestUEProj/InventoryProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/QU/IDA57XMTCQPIIQZB9G5MVA.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/S_Line.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/S_Tile.uasset",
+				"D:/TestUEProj/InventoryProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"D:/TestUEProj/InventoryProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/L5/I4273WDKYGWO4SZS016YXG.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/SB_Colour.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/WBP_InventoryGrid.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/WBP_Item.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/BP_SpatInventoryComponent.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/WBP_SpatInventory.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/Items/BP_SpatItem.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/Items/U_SpatItemObject.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/Items/BP_StatueSpat.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/Items/Material/Knife.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/Items/Material/M_BaseIcon.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/Items/Material/M_IconStatue.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/Items/Material/M_IconStatueRotated.uasset",
+				"D:/TestUEProj/InventoryProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UP/NWCOGIGM9MQ5TVPKAT7MBB.uasset",
+				"D:/TestUEProj/InventoryProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7D/C6ZH6A38YFDL8C328FF00T.uasset",
+				"D:/TestUEProj/InventoryProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/2R/TEPXK8RU5AX6C4U4K6K6YQ.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/BP_GameState.uasset",
+				"D:/TestUEProj/InventoryProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/BP_SpatialInventorycomponent.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/WBP_SpatilaInventory.uasset",
+				"D:/TestUEProj/InventoryProject/Content/SpatialInventory/Items/Material/Knife_Mat.uasset"
+			]
+		}
+	]
+}
